@@ -1,0 +1,9 @@
+/* style.css */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    /* Purple gradient background */
+    background: linear-gradient(135deg, #6a11cb, #2575fc);
+    color: #fff;
+    min-height: 100vh;
+}
